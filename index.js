@@ -18,11 +18,3 @@ function dec(n) {
   return n -=1;
   var n = 381;
 }
-function makeInt(n) {
-  return parseInt("n", 10);
-  var n = "651";
-}
-function preserveDecimal(n) {
-  return parseFloat("n");
-  var n = 2.222;
-}
