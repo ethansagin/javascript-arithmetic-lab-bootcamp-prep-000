@@ -10,6 +10,9 @@ function multiply(a, b) {
 function divide(a, b) {
   return a / b
 }
-
-
-console.log(number += 3)var number = 5
+function inc(n) {
+  return n++
+}
+function dec(n) {
+  return n--
+}
