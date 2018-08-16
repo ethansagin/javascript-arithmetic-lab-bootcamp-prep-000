@@ -11,13 +11,16 @@ function divide(a, b) {
   return a / b
 }
 function inc(n) {
-  return n +=1
+  return n +=1;
+  var n = 559
 }
 function dec(n) {
-  return n -=1
+  return n -=1;
+  var n = 381
 }
 function makeInt(n) {
-  return parseInt("n", 10)
+  return parseInt("n", 10);
+  var n = "305"
 }
 function preserveDeciaml(n) {
   return parseFloat("n")
