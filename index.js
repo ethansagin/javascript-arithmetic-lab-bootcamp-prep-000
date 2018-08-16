@@ -20,8 +20,9 @@ function dec(n) {
 }
 function makeInt(n) {
   return parseInt("n", 10);
-  var n = "151"
+  var n = "651"
 }
 function preserveDecimal(n) {
-  return parseFloat("n")
+  return parseFloat("n");
+  var n = 2.222
 }
